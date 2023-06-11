@@ -1,2 +1,2 @@
 # html-css-barbearia
- barbearia com html e css
+ Página de uma barbearia com html e css
